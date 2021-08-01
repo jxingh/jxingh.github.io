@@ -7,7 +7,7 @@
       <p><b>硕士研究生</b></p>
       <p><b>邮箱：jxingh@163.com</b></p>
       <p><a href="https://github.com/jxingh">My GitHub</a></p>
-      <p><a href="index_en.html">English homepage</a></p>
+      <p><a href="/index_en.html">English homepage</a></p>
     </td>
     <td width="25%">
       <img src="/jxingh.jpg" width="100%">
