@@ -6,7 +6,7 @@
       <p><b>电子科技大学，成都</b></p>
       <p><b>硕士研究生</b></p>
       <p><b>邮箱：jxingh@163.com</b></p>
-      <p><b>Github：[https://github.com/jxingh]</b></p>
+      <p><b>访问我的[Github](https://github.com/jxingh)</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
